@@ -1,7 +1,7 @@
 # vectormain
 Examples of Vector Functions and Subroutines in Fortran
 
-# Compilation Methods
+# Compilation Methods -- Working Code
 
 # Method 1: Using make
 make
