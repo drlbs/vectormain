@@ -12,8 +12,7 @@
 !   - Subroutines that modify arguments via intent attributes
 !   - Assumed-shape arrays for flexible array passing
 !
-! Author: Student Name
-! Course: Fortran Programming
+! 
 !===============================================================================
 
 module vector_ops
